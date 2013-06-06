@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="https://210.61.46.9:8008/MsDeploy.axd" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Default Web Site/sms" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="False" msdeployMarkAsApp="False" profileName="設定檔1" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="paasuser" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtE878fXHqku8S3zg4Y/lugAAAAACAAAAAAAQZgAAAAEAACAAAABPLqtOhyZ4mOLorprPGFckqjsXrPLwCipkw3pCSXyjowAAAAAOgAAAAAIAACAAAACLbODm8OBafS/d/NsZn/2zYGHWw8zkAjzo66jNfClMjyAAAACYSy1VLFnHAIUDIj/4mihFb1VaDhrL4fwRyastxHW4lUAAAACCQsLf+Rosk+SmGbtXF7jyX0LN8AKExgdmHrIFlhJMKImHxdCEnDVEhrkjkDv83lUf7nGnG5hWR3Zwy9PT0ODB" SelectedForPublish="True" />
+</publishData>

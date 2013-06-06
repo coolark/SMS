@@ -1,0 +1,5 @@
+c:\users\coolark\Projects\SMS\SMS\bin\SMS.dll
+c:\users\coolark\Projects\SMS\SMS\bin\SMS.pdb
+c:\users\coolark\Projects\SMS\SMS\obj\Debug\ResolveAssemblyReference.cache
+c:\users\coolark\Projects\SMS\SMS\obj\Debug\SMS.dll
+c:\users\coolark\Projects\SMS\SMS\obj\Debug\SMS.pdb
